@@ -1,0 +1,11 @@
+name: AvoidTPA
+main: com.bnana.AvoidTPA
+version: 1.0
+api-version: 1.19
+
+commands:
+    tpa:
+    tpahere:
+    tpaccept:
+    tpdeny:
+    tpaguitoggle:
